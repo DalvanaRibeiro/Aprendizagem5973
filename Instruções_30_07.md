@@ -4,3 +4,5 @@ Link Aula: https://www.canva.com/design/DAGivsv4IMc/0n797mxVh-jB4UccsW3RkA/edit?
 
 
 Link Questionário: https://dalvanaribeiro.github.io/sitecdc/
+
+Link Questionário 2: https://dalvanaribeiro.github.io/cdcsite2/
