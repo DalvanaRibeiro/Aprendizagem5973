@@ -8,3 +8,5 @@ Link Questionário: https://dalvanaribeiro.github.io/sitecdc/
 Link Questionário 2: https://dalvanaribeiro.github.io/cdcsite2/
 
 Link para envio do Questionário 2: https://docs.google.com/forms/d/e/1FAIpQLScIF30lU2LQMRY-J-NWuHPp01KrsKMc2ieZkPMP6bWl3bHKOg/viewform?usp=header
+
+Game para finalizar essa aula maravilhosa com esses alunos top: https://dalvanaribeiro.github.io/gameCDC/
